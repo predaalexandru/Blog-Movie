@@ -6,7 +6,7 @@ export default function Header() {
         <HeaderStyled>
             <div className="container">
                 <div className="logo">
-                    <img src="#" alt="Sites Logo" />
+                    <img src="/img/favicon.png" alt="Sites Logo" />
                     <span className="logo-text">Next Movies</span>
                 </div>
             </div>
