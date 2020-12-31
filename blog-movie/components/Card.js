@@ -37,7 +37,7 @@ const CardStyled = styled.div`
             color: #666666;
             line-height: 1.5;
             text-align:center;
-            font-size: 30px;
+            font-size: 20px;
         }
         
         a {
